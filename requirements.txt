@@ -1,0 +1,8 @@
+confluent-kafka==2.10.0
+numpy==2.2.6
+pandas==2.2.3
+pyspark==3.5.5
+bs4==0.0.2
+python-dotenv==1.1.0
+hdfs==2.7.3
+pyyml==0.0.2
