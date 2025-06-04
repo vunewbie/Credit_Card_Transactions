@@ -11,6 +11,5 @@ echo "Đang đợi Kafka hoàn tất xóa topic..."
 
 sleep 3
 
-# Tạo lại topic mới
 kafka-topics.sh --bootstrap-server localhost:9092 --create --topic transactions
 echo "Đã tạo lại topic transactions"
