@@ -64,9 +64,7 @@ This will:
 ## 📁 Directory Structure
 
 ```
-ODAP/
-├── data/
-│   └── credit_card_transactions.csv
+Credit_Card_Transactions/
 ├── src/
 │   ├── producer.py
 │   ├── streaming_job.py
