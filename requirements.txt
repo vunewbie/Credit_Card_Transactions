@@ -1,0 +1,10 @@
+pandas
+pyspark
+kafka-python
+hdfs
+requests
+beautifulsoup4
+python-dotenv
+matplotlib
+apache-airflow
+pytz
